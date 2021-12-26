@@ -1,0 +1,35 @@
+.footer-bg {
+    display: flex;
+    justify-content: space-between;
+    padding: 150px 140px;
+}
+
+.off p {
+    font-family: Helvetica;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    color: #252323;
+    text-align: left;
+    margin: 0 ;
+    padding-left: 10px;
+}
+
+.footer-lists {
+    display: flex;
+    gap: 50px;
+}
+
+.lista {
+    list-style: none;
+    font-family: Helvetica;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    margin-bottom: 12px;
+    color: #252323;
+}
+
+.bold {
+    font-weight: bold;
+}

@@ -1,0 +1,22 @@
+.texto {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 170px;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.095em;
+    text-transform: uppercase;
+}
+
+.dois-tenis {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 100px;
+}

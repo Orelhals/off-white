@@ -1,0 +1,34 @@
+#conteudo {
+    position: relative;
+}
+
+.facao {
+    position: absolute;
+    width: 177px;
+    height: 54px;
+    top: 28px;
+    left: 120px;
+}
+
+.conteudo-bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-family: Helvetica;
+    font-weight: bold;
+    font-size: 97px;
+    line-height: 113px;
+    text-align: right;
+    color: black;
+    padding: 0px 150px;
+    margin: 0px;
+}
+
+.tenis-branco {
+    position: absolute;
+    top: 65px;
+    left: 90px;
+}

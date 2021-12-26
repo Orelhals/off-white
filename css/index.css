@@ -1,0 +1,13 @@
+@import './header.css';
+@import './conteudo.css';
+@import './conteudo-dois.css';
+@import './conteudo-tres.css';
+@import './conteudo-quatro.css';
+@import './footer.css';
+
+html, body {
+    padding: 0px;
+    margin: 0;
+    background: #E5EFE9;
+    height: 5000px;
+}

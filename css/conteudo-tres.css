@@ -1,0 +1,5 @@
+.man-roupas {
+    display: flex;
+    justify-content: space-around;
+    padding: 90px 80px;
+}

@@ -1,0 +1,30 @@
+.header-bg {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 150px;
+    margin-bottom: 200px;
+}
+
+.header-menu {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+.header-menu a {
+    text-decoration: none;
+    font-family: helvetica;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-transform: uppercase;
+}
+
+.shop {
+    color: black;
+}
+
+.brand {
+    color: #9D9B9B;
+}
