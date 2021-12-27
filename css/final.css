@@ -1,0 +1,19 @@
+.sociais {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 90px 140px;
+}
+
+.sociais p {
+    font-family: Helvetica;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 18px;
+    color: #888787;
+}
+
+span {
+    font-weight: bold;
+    color: black;
+}

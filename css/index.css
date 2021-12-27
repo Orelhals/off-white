@@ -4,10 +4,10 @@
 @import './conteudo-tres.css';
 @import './conteudo-quatro.css';
 @import './footer.css';
+@import './final.css';
 
 html, body {
     padding: 0px;
     margin: 0;
     background: #E5EFE9;
-    height: 5000px;
 }
